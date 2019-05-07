@@ -1,0 +1,12 @@
+.card {
+  margin: auto;
+  text-align: center;
+}
+
+.winStyle {
+  color: green;
+}
+
+.lossStyle {
+  color: red;
+}
